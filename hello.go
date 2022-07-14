@@ -2,7 +2,14 @@ package main
 
 import "fmt"
 
-func main(){
-  
-  fmt.println("hello mhl")
+func main() {
+
+	fmt.Println("hello mhl")
+
+	fmt.Println("hello mhl")
+
+	fmt.Println("hello mhl")
+
+	fmt.Println("hello mhl")
+
 }
